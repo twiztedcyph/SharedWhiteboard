@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: FileDrop.jar
+Main-Class: com.twizted.Main
+

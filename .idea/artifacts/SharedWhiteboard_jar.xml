@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="SharedWhiteboard:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SharedWhiteboard_jar</output-path>
+    <root id="archive" name="SharedWhiteboard.jar">
+      <element id="library" level="project" name="Libs" />
+      <element id="module-output" name="SharedWhiteboard" />
+    </root>
+  </artifact>
+</component>
